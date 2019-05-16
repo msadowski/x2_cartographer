@@ -1,0 +1,3 @@
+[submodule "ydlidar"]
+	path = ydlidar
+	url = git@github.com:YDLIDAR/ydlidar.git
